@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Click</string>
+    <string name="accessibility_desc">Cho phép Auto Click thực hiện thao tác chạm tại vùng bạn chọn trên màn hình.</string>
+</resources>
